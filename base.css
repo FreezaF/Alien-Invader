@@ -48,7 +48,6 @@ table {
 	border-spacing: 0;
 }
 
-
 /* Center the container */
 #container {
   padding-top:50px;
@@ -58,6 +57,5 @@ table {
 
 /* Give canvas a background */
 canvas {
-  background-color:black;
-
+  background-color: black;
 }
